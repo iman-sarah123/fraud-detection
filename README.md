@@ -1,2 +1,18 @@
-# fraud-detection
-Developed a fraud detection model using Python and Machine Learning algorithms. Applied SMOTE to handle imbalanced datasets. Evaluated performance using Accuracy, Precision, Recall, F1-Score, and ROC-AUC.
+# Mobile Financial Fraud Detection
+
+## Overview
+This project uses Machine Learning techniques to identify fraudulent financial transactions.
+
+## Technologies Used
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- XGBoost
+- SMOTE
+
+## Results
+Achieved high accuracy and ROC-AUC score in detecting fraudulent transactions.
+
+## Author
+Iman Sarah
